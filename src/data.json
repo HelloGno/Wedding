@@ -87,8 +87,8 @@
     "address2": "서울 강남구 언주로 711\n셀럽앤어셈 2층 디 아이올라홀\n02-545-2222",
     "naverMap": "https://map.naver.com/p/entry/place/1923235344?c=15.00,0,0,0,dh",
     "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&q=%EC%85%80%EB%9F%BD%EC%95%A4%EC%96%B4%EC%85%88&hId=1841482687&mode=place&urlLevel=3&urlX=507457&urlY=1115998",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "lat": 37.5173,
+    "lon": 127.0341
   },
   "locationInfo": [
     {
@@ -97,7 +97,7 @@
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 주차장 2시간 무료주차\n(1,2층 주차등록 데스크에서 개별등록록)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 주차장 2시간 무료주차\n(1,2층 주차등록 데스크에서 개별등록)"
     }
   ],
   "emojis": [
