@@ -20,9 +20,9 @@ body {
 }
 
 @font-face {
-  font-family: 'SUITE-Regular';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
-  font-weight: 400;
+  font-family: 'SF_HambakSnow';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_HambakSnow.woff') format('woff');
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -30,5 +30,19 @@ body {
   font-family: 'SUITE-Regular';
   src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
   font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ownglyph_corncorn-Rg';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2412-1@1.0/Ownglyph_corncorn-Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HakgyoansimDunggeunmisoTTF-B';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-B.woff2') format('woff2');
+  font-weight: 700;
   font-style: normal;
 }

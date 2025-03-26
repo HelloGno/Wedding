@@ -23,7 +23,7 @@ const MainImg = styled.img`
 `;
 
 const MainTitle = styled.p`
-  font-family: SUITE-Regular, serif;
+  font-family: HakgyoansimDunggeunmisoTTF-B, serif;
   font-size: 2rem;
   color: #2F2120;
   line-height: 120%;

@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const Heading1 = styled.p`
-  font-family: SUITE-Regular, serif;
+  font-family: Ownglyph_corncorn-Rg, serif;
   font-size: 1.5rem;
   margin: 10px;
   color: #e88ca6;
