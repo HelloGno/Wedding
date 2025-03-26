@@ -34,7 +34,9 @@ const AccountWrap = ({
       </Info>
       <Details>
         <AccountInfo>
-          {bank} \n{account}
+          {bank}
+          <p>
+          {account}
         </AccountInfo>
         <CopyButton onClick={handleCopy}>
           <Copy fill="#dfdfdf" />
