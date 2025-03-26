@@ -41,7 +41,7 @@
         {
           "name": "황진호",
           "relation": "신랑",
-          "bank": "우리은행",
+          "bank": "우리",
           "account": "1002-758-107485"
         },
         {
@@ -64,19 +64,19 @@
         {
           "name": "김다애",
           "relation": "신부",
-          "bank": "신한은행",
+          "bank": "신한",
           "account": "110-517-149727"
         },
         {
           "name": "김덕진",
           "relation": "아버지",
-          "bank": "국민은행",
+          "bank": "국민",
           "account": "170002-04-056056"
         },
         {
           "name": "권정미",
           "relation": "어머니",
-          "bank": "신한은행",
+          "bank": "신한",
           "account": "110-148-146930"
         }
       ]
@@ -93,11 +93,11 @@
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 7호선\n-학동역 10번 출구(도보 5분)\n-강남구청역 3번 출구 (도보 10분)\n\uD83D\uDC49\uD83C\uDFFB 수인분당선\n-강남구청역 3번 출구 (도보 10분)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 7호선\n- 학동역 10번 출구(도보 5분)\n- 강남구청역 3번 출구 (도보 10분)\n\uD83D\uDC49\uD83C\uDFFB 수인분당선\n- 강남구청역 3번 출구 (도보 10분)"
     },
     {
       "title": "\uD83D\uDCCD 버스",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB '서울세관' 정류장 하차\n(-141번, 3600번, 6703번)\n\uD83D\uDC49\uD83C\uDFFB '서울세관 사거리' 정류장 하차 \n(401번, 6411번, 8641번, 08번)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB '서울세관' 정류장 하차\n(141번, 3600번, 6703번)\n\uD83D\uDC49\uD83C\uDFFB '서울세관 사거리' 정류장 하차 \n(401번, 6411번, 8641번, 08번)"
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
