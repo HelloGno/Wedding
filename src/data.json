@@ -93,15 +93,15 @@
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 7호선 학동역 10번 출구 (도보 5분)\n\uD83D\uDC49\uD83C\uDFFB 수인분당, 7호선 강남구청역 3번 출구 (도보 10분)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 7호선\n-학동역 10번 출구(도보 5분)\n-강남구청역 3번 출구 (도보 10분)\n\uD83D\uDC49\uD83C\uDFFB 수인분당선\n-강남구청역 3번 출구 (도보 10분)"
     },
     {
       "title": "\uD83D\uDCCD 버스",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB '서울세관' 정류장 하차 - 141번, 3600번, 6703번\n\uD83D\uDC49\uD83C\uDFFB '서울세관 사거리' 정류장 하자 - 401번, 6411번, 8641번, 08번"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB '서울세관' 정류장 하차\n(-141번, 3600번, 6703번)\n\uD83D\uDC49\uD83C\uDFFB '서울세관 사거리' 정류장 하차 \n(401번, 6411번, 8641번, 08번)"
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 주차장 2시간 무료주차\n(1,2층 주차등록 데스크에서 개별등록)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 주차장 2시간 무료주차\n(1,2층 주차등록 데스크 개별등록)"
     },
     {
       "title": "\uD83D\uDCCD 안내사항",
