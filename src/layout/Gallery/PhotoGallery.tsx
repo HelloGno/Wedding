@@ -3,11 +3,18 @@ import 'photoswipe/style.css';
 import images from '@/layout/Gallery/Images.ts';
 
 const PhotoGallery = () => {
-  const smallItemStyles: React.CSSProperties = {
+  const longItemStyles: React.CSSProperties = {
     cursor: 'pointer',
     objectFit: 'contain',
     width: '100px',
     height: '150px',
+  };
+
+  const shortItemStyles: React.CSSProperties = {
+    cursor: 'pointer',
+    objectFit: 'contain',
+    width: '100px',
+    height: '70px',
   };
 
   return (
@@ -19,6 +26,8 @@ const PhotoGallery = () => {
           gridGap: 2,
         }}>
         {images.map((image, index) => {
+          const itemStyles = image.width < image.height ? longItemStyles : shortItemStyles;
+
           return (
             <Item
               key={index}
@@ -27,9 +36,9 @@ const PhotoGallery = () => {
               thumbnail={image.source}
               width={image.width}
               height={image.height}>
-              {({ ref, open }) => (
+              {({ ref, open }) => (             
                 <img
-                  style={smallItemStyles}
+                  style={itemStyles}
                   alt={image.alt}
                   src={image.source}
                   ref={ref as React.MutableRefObject<HTMLImageElement>}
