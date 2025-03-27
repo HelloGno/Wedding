@@ -1,22 +1,3 @@
-# 💌 Mobile Wedding Invitation 💌
-
-![demo1.gif](demo1.gif)
-
-이 프로젝트는 모바일 청첩장 입니다.
-
-React와 Typescript를 기반으로 개발되었으며, Vite를 사용하여 빠르고 간편한 개발 환경을 제공합니다. 
-
-eslint와 prettier를 적용했고, emotion/styled를 활용하여 스타일링을 헸습니다.
-
-갤러리는 react-photoswipe-gallery, 지도는 react-naver-maps 를 사용했습니다.
-
-
-![demo2.gif](demo2.gif)
-
-js-confetti를 이용하여 귀여운 컨페티 기능을 넣었습니다.
-
-
-
 ## 프로젝트 설치 및 실행 방법
 
 1. 저장소를 클론합니다.
@@ -40,7 +21,6 @@ npm run dev
 ```
 
 
-
 ## 커스텀 체크리스트
 
 - [ ] `src/data.json` 청첩장에 들어갈 정보를 수정합니다.
@@ -50,28 +30,3 @@ npm run dev
 - [ ] `.env` VITE_APP_NAVERMAPS_CLIENT_ID=client_id 입력이 필요합니다.
 - [ ] (선택) `src/firebase.ts` likes, 방명록을 사용한다면 firebase sdk 설정이 필요합니다.
 - [ ] (선택) `src/data.json` 혼주 계좌번호 작성시 `kakaopayAccount`, `tossAccount` 항목을 이용해 카카오페이나 토스 링크를 추가할 수 있습니다.
-
-## Clone 후, 바로 배포하기
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fheejin-hwang%2Fmobile-wedding-invitation)
-
-
-## 참고 자료
-
-- 개발자: [heejin-hwang](https://github.com/heejin-hwang)
-- react-photoswipe-gallery 라이브러리: [react-photoswipe-gallery](https://www.npmjs.com/package/react-photoswipe-gallery)
-- react-naver-maps 공식문서: [react-naver-maps](https://zeakd.github.io/react-naver-maps/)
-- 네이버 클라우드 플랫폼: [NAVER CLOUD PLATFORM](https://console.ncloud.com/naver-service/application)
-- 카카오 디벨로퍼스: https://developers.kakao.com/
-- 토스 아이디 만들기: https://toss.me/
-
-
-이 프로젝트는 MIT 라이센스에 따라 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
-
-## 또 하나의 모바일 청첩장
-좀 더 정돈된 디자인을 윈한다면, [스몰빅웨딩](https://bit.ly/4jEJQcg)에서 귀여운 포인트가 가득한 청첩장을 이용해 볼 수 있습니다.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=heejin-hwang/mobile-wedding-invitation&type=Date)](https://star-history.com/#heejin-hwang/mobile-wedding-invitation&Date)
-
